@@ -2,7 +2,7 @@
 > Veja mais em: [a tela de login mais bonita do mundo](https://codante.io/mini-projetos/mp-tela-login-tailwind)
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <img alt="project" src=".github/project.png" width="100%">
 </p>
 
 ## 💻 Projeto
@@ -30,10 +30,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Yarn](https://yarnpkg.com/)
 
 
+## Deploy
+[Clique aqui](https://codante-login.vercel.app/) para ver a página
+
 ## :memo: Licença
 
 Esse projeto está sob a [licença MIT](./LICENSE).
 
----
+-----
 
 Feito com 💜 por [@jhollyferr](https://instagram.com/jhollyferr) :wave:
