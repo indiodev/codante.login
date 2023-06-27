@@ -1,60 +1,39 @@
-<h1 align="center"> React Vite Boilerplate </h1>
+## 💻 Codante.login
+> Veja mais em: [a tela de login mais bonita do mundo](https://codante.io/mini-projetos/mp-tela-login-tailwind)
 
 <p align="center">
-Template base para React Web App
+  <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+## 💻 Projeto
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+Implementação de uma tela de login bonita usando o framework Tailwind CSS. Proporcionando uma experiência visualmente agradável aos usuários ao fazerem login em seus sistemas.
 
-<br>
+## 🔨 Features
+- Validação formulário
+- Responsividade
 
-<p align="center">
-  <img alt="rocketpay" src=".github/project.jpeg" width="100%">
-</p>
+## 🎲 Base
+
+Este projeto segue o template base (boilerplate) de React + Vite + Tailwind CSS do seguinte repositório: [react.template](https://github.com/jhollyferr/react.template/tree/tailwind)
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- JavaScript/Typescript
 - [Node](https://nodejs.org/)
 - [ReactJS](https://reactjs.org/)
-- [Styled-Components](https://styled-components.com/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
 - [Vitest](https://vitest.dev/)
 - [Yarn](https://yarnpkg.com/)
 
-## 💻 Projeto
-
-React Vite Boilerplate é um template base para aplicações react que possui as
-seguintes bibliotecas pré configuradas
-
-- Aliases: categorizar apontamentos de importação para o ./src
-- ESlint/Prettier para regras e padronização de escrita de código JSX/TS
-  - Auto Import: corrgir automaticamente as importações
-  - Organize Import: categorizar e organizar importação
-  - Consistent Type Import: explicitar o type/interface na importação
-  - Explicit Function Return Type: definir tipo de retorno de função
-  - Exhaustive Hooks Deps: identificar itens para o array de dependencias em
-    Hooks
-  - Resolve Aliases: resolvedores de importação com uso de aliases
-- Styled-Components: definir a criação de componentes estilizados
-- Vitest: realizar testes com o auxilio e integração de Testing Library e Jest
-  Styled Components
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a [licença MIT](./LICENSE).
 
 ---
 
-Feito com ♥ by [@indiocode](https://instagram.com/indiocode) :wave:
+Feito com 💜 por [@jhollyferr](https://instagram.com/jhollyferr) :wave:
